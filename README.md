@@ -1,0 +1,3 @@
+# E-commerce-project
+Just built a full-stack E-Commerce Product Catalog from the ground up! This project showcases a dynamic and responsive web application where users can seamlessly browse a variety of products.
+A full-stack e-commerce application featuring a clean React.js frontend with a component-based product grid, supporting category filtering, real-time search, and price sorting. The Spring Boot backend provides robust REST APIs with dedicated product and category controllers, while a DataSeeder preloads diverse products like smart watches, headphones, sweatshirts, and air fryers. The project showcases end-to-end integration of React and Spring Boot to deliver a smooth, user-centric shopping experience using React, Java, and REST APIs.
